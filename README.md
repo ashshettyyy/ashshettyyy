@@ -1,14 +1,14 @@
-# Hello World!, I'm Ashwitha Shetty👋🏼, passionate about building products solving real-user problems.
+# Hello World! I'm Ashwitha Shetty👋
+  Passionate about building products solving real-user problems
 
-## Find me around the web 🌎: <img align="right" width="150" height="150" src="https://media.giphy.com/media/3ohhwh8cdOYJfALOrW/giphy.gif">
+## Find me around the web 🌎: <img align="right" width="150" height="150" src="https://github.com/ashshettyyy/ashshettyyy/blob/131b508bb54965eef8e76737648186395447b881/haikyuu.png">
 
 - Learning in public on <a href="https://medium.com/@ashwithashettyyy">Medium</a> ✍🏾
 - Tinkering with deep learning projects on <a href="https://www.kaggle.com/code/ashwithashettyyy/email-intent-classifier"> Kaggle </a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/ashwithashettyyy/">LinkedIn</a> 💼
 - Reach me at <a href="mailto:ashwitha.shettyyy@gmail.com">Gmail</a> 📧
 
-# 💻 Tech Stack:
-<h3 align="left">Tools & Technologies I Use:</h3>
+## Tools & Technologies I Use:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -38,6 +38,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="30" alt="confluence logo"  />
-  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 </div>
 
